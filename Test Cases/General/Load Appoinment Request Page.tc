@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Load Appoinment Request Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>960e7520-b8eb-449b-a43a-71dd08e71feb</testCaseGuid>
+</TestCaseEntity>

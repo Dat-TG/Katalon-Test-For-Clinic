@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Max Patients Per Day Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81cf7e71-e7eb-4194-84b5-f83524fbab74</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Address Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e04e8fe-d6cc-4a92-b9a1-e47e5f6ee60d</testCaseGuid>
+</TestCaseEntity>

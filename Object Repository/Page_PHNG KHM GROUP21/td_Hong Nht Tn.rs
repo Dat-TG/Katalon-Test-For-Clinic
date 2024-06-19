@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Hong Nht Tn</name>
+   <tag></tag>
+   <elementGuidId>e4e5cd45-3e1a-4ffa-a4f3-dba68f8c048e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.sorting_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>fc9ecd44-1a4d-4307-b2c7-fca5dedfc77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sorting_1</value>
+      <webElementGuid>3751caa3-7c59-4373-afc3-45a4dc961ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hoàng Nhất Tín</value>
+      <webElementGuid>7ac439e6-1ac4-4903-9f1e-ad51c5b57635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;sorting_1&quot;]</value>
+      <webElementGuid>c2304cc3-cdd3-4122-8327-28a476f6aa13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='example']/tbody/tr/td</value>
+      <webElementGuid>3635f2a5-0303-43c8-815d-e6b09de03af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Học vị'])[1]/following::td[1]</value>
+      <webElementGuid>6f0cefd8-a440-4fcf-83cf-f4c425391568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Điện thoại'])[1]/following::td[1]</value>
+      <webElementGuid>5101fe7d-401f-4179-bf0a-02d3bfa08a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nam'])[1]/preceding::td[1]</value>
+      <webElementGuid>d5680f56-52ea-4212-967a-c9fe90c9aaf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>882cbe64-6584-4c2f-ae19-2669f7d19bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Hoàng Nhất Tín' or . = 'Hoàng Nhất Tín')]</value>
+      <webElementGuid>3ff0a7f5-c361-4300-809b-7c7c377a4020</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

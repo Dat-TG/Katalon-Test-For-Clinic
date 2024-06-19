@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_L Cng t 123_fas fa-edit</name>
+   <tag></tag>
+   <elementGuidId>eb69b6db-94c8-43c9-abd6-c9bb0f91a307</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-pencil-square</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6bc91a2a-5593-4d2e-8c08-735482c86be2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-pencil-square</value>
+      <webElementGuid>a2bcbc82-6d0a-4b0f-9463-a714644da06f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;card mb-3 mt-3 ms-auto me-auto text-dark&quot;]/div[@class=&quot;row g-0 d-flex flex-row align-items-center&quot;]/div[@class=&quot;col-md-4 text-center&quot;]/div[@class=&quot;d-flex flex-column align-items-center&quot;]/div[@class=&quot;d-flex justify-content-center&quot;]/button[@class=&quot;d-block me-2&quot;]/i[@class=&quot;bi bi-pencil-square&quot;]</value>
+      <webElementGuid>846d4cda-eca2-4f06-842f-6ff74d2b7016</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>ece69df6-fa48-4ff0-8110-ee040e39b554</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

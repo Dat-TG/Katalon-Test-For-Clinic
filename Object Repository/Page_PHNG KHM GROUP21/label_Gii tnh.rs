@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Gii tnh</name>
+   <tag></tag>
+   <elementGuidId>1a5b2767-7d3d-4b7a-a64a-1f1d742782c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-4.mb-4 > label.form-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='editProfileForm']/div[3]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2c532d68-f707-4fcb-829f-e62ffbca4628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>0538dcdd-21b1-4bcd-97ae-138a1e423f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>sex</value>
+      <webElementGuid>943859fe-0c22-4202-8123-6fb908a7c59e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Giới tính</value>
+      <webElementGuid>78107230-f59c-43c5-9c09-aa93fa3a2c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editProfileForm&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 mb-4&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>388c7913-9436-4162-aa6d-1e32a2aed00b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='editProfileForm']/div[3]/div[2]/label</value>
+      <webElementGuid>33f31d81-7d1c-4483-8c25-6640814f5774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày sinh'])[2]/following::label[1]</value>
+      <webElementGuid>1bb5483f-d508-4a1c-bcc8-94bb036305e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Họ và tên'])[1]/following::label[2]</value>
+      <webElementGuid>78f9b268-e6f7-49ac-86a8-09805076ac5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nam'])[2]/preceding::label[1]</value>
+      <webElementGuid>d7aab2a4-481f-4a1e-9a1c-4d34e7363730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nữ'])[1]/preceding::label[2]</value>
+      <webElementGuid>50125f28-9e25-4b24-833c-6c30fee6db76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/label</value>
+      <webElementGuid>c695e158-49c0-49ad-9825-37798466e89a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Giới tính' or . = 'Giới tính')]</value>
+      <webElementGuid>2de9488b-8ba2-494e-929e-936c75528c4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

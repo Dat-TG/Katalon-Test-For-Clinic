@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dch v</name>
+   <tag></tag>
+   <elementGuidId>8a678d18-f3cd-4b27-a25b-5a7c3686e6b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li[2]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>45ca3b91-6ccc-44ec-b44e-d1891292fc58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>f5b8def9-b4c8-47c0-b26e-c007340f5ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tim-kiem/dich-vu</value>
+      <webElementGuid>7fd8e108-15e8-4f6d-a5f0-69c2f24159ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dịch vụ</value>
+      <webElementGuid>6461b896-532e-4278-aa0e-689aa05b0026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item dropdown me-2&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-end dropdown-menu-lg-start show&quot;]/li[3]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>2f18b0bf-ab38-48af-a58e-939a9f1e7745</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>8cf9021d-a441-4383-aa5b-019ed2870dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Dịch vụ')]</value>
+      <webElementGuid>c5a3916b-17b8-435f-877c-f41a1db9afe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bác sĩ'])[1]/following::a[1]</value>
+      <webElementGuid>a659b86e-4bdd-4ef4-a49f-52c08b853730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thuốc'])[1]/following::a[2]</value>
+      <webElementGuid>675205f1-55e0-4d50-90da-5d1d129debd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/preceding::a[2]</value>
+      <webElementGuid>c30cf061-0cd7-45e3-a738-845912bb3e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản'])[1]/preceding::a[3]</value>
+      <webElementGuid>4cc67df3-434d-42d5-a2bd-b16ff0281a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dịch vụ']/parent::*</value>
+      <webElementGuid>80a8f506-ac8e-48fc-be43-28dccfd1dbbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tim-kiem/dich-vu')]</value>
+      <webElementGuid>f72feb84-63b9-4ae7-b254-506337b8a67b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>2fe3d1ab-10e4-45aa-b4fe-1cae04374492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tim-kiem/dich-vu' and (text() = 'Dịch vụ' or . = 'Dịch vụ')]</value>
+      <webElementGuid>d52ef5b7-aa68-46c3-93b5-19ec2f55d8e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

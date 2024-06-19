@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Load Profile Patient</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06378af3-b018-46b1-9eec-73560a4ccbf2</testCaseGuid>
+</TestCaseEntity>

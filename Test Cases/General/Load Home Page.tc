@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Load Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd06a6a8-c5b0-4377-8d0d-c43e2dbae5fb</testCaseGuid>
+</TestCaseEntity>

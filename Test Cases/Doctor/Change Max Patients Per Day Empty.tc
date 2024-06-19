@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Max Patients Per Day Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ff9afca-f16a-40e0-92db-6a4ee6192894</testCaseGuid>
+</TestCaseEntity>

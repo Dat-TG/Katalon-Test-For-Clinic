@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Dch v_bi bi-person-circle me-2</name>
+   <tag></tag>
+   <elementGuidId>6a0b1532-77e9-41ff-b79a-7539707c7b5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dịch vụ'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.bi.bi-person-circle.me-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>0357be40-e0a0-4136-865c-5023eafe3af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>007a87f1-390d-4223-803a-c38c67afa8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>32</value>
+      <webElementGuid>0acfd4f5-2a28-45e8-a69d-928fe0bba7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>32</value>
+      <webElementGuid>4d95f64d-7001-47c7-a5e1-9e8f649e51a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>white</value>
+      <webElementGuid>b6754d94-ea5d-459f-98de-a0feff3939ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-person-circle me-2</value>
+      <webElementGuid>a0f89ab8-8c8e-45d6-8557-183b1e6b893d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 16 16</value>
+      <webElementGuid>a8add08d-fa20-4fbf-a4b3-78084e3eb1b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarDropdownMenuAvatar&quot;)/svg[@class=&quot;bi bi-person-circle me-2&quot;]</value>
+      <webElementGuid>5f9ed342-d8de-4d13-8e06-060861cb8abb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dịch vụ'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>f378ec05-e4e0-4bc5-95ad-14e49a7cb8fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bác sĩ'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e2ca040f-cc97-40ea-91b1-ac9e894ee463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>2e29f1e5-8f42-4b77-af89-f98bda40dd3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>aa6ec88b-b189-478e-9f1d-2a54f691927c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

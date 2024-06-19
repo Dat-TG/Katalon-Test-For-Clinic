@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View Max Patients Per Day</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00bc3329-b25a-4d7d-b0f5-31610153fc14</testCaseGuid>
+</TestCaseEntity>

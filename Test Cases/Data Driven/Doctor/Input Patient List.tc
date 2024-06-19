@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Patient List</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7269b3c7-1fb1-4685-b988-4f33fc7d1906</testCaseGuid>
+</TestCaseEntity>

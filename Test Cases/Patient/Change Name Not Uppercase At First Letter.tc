@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Name Not Uppercase At First Letter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf2b26a7-bb15-44b0-93a5-e2d4559b619c</testCaseGuid>
+</TestCaseEntity>

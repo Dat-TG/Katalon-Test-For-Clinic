@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View Medical Records Details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>760c2ba0-3f46-49d5-8d2d-1a55cdad7dd4</testCaseGuid>
+</TestCaseEntity>

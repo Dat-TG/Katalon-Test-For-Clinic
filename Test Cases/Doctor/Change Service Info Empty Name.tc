@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Service Info Empty Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>894754c2-e41c-40ca-97bc-7665f98b64f4</testCaseGuid>
+</TestCaseEntity>

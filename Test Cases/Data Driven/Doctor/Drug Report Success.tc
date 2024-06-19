@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Drug Report Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0bf8da8d-de8b-4443-9f7b-cdd1bb0325e6</testCaseGuid>
+</TestCaseEntity>

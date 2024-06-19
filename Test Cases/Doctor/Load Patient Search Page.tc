@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Load Patient Search Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65e2bc2c-4f43-4678-b9ac-b188d0ecd2cc</testCaseGuid>
+</TestCaseEntity>

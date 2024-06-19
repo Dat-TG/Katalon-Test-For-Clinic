@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View Drug Details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24c9cea0-f2a2-4eda-b90a-c3ed96e89ec5</testCaseGuid>
+</TestCaseEntity>

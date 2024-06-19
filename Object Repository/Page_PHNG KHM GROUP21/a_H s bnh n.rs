@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_H s bnh n</name>
+   <tag></tag>
+   <elementGuidId>1968ebec-a45f-4f50-a722-895d494c7ee7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li[3]/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bcb75742-9c95-4781-8db4-4d6cdfbe46e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>ad382c3a-0889-46c9-b1fd-06fe7648c1f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tim-kiem/ho-so-benh-an</value>
+      <webElementGuid>50c2a206-6fd2-4ec5-8e79-02cf894aaf7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hồ sơ bệnh án</value>
+      <webElementGuid>c2d4e790-b4e3-4159-b25c-2ffc901a080a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item dropdown me-2&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-end dropdown-menu-lg-start show&quot;]/li[5]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>4c248fda-4ba9-4649-bad3-e3115754943f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li[3]/ul/li[5]/a</value>
+      <webElementGuid>2567d2d6-0c92-46f5-9d0f-bf65c339bfb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hồ sơ bệnh án')]</value>
+      <webElementGuid>4466e870-bfd5-4d42-9fa5-ebe66322edf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bệnh nhân'])[1]/following::a[1]</value>
+      <webElementGuid>567e3c9a-68d0-4d43-8bf9-e0ab4bbea7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dịch vụ'])[1]/following::a[2]</value>
+      <webElementGuid>ff3c2892-2fd3-4626-9bb7-8b80ec859857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/preceding::a[2]</value>
+      <webElementGuid>c283ce4f-fffe-4c5c-ac2e-c5d83e4d1021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản'])[1]/preceding::a[3]</value>
+      <webElementGuid>accc5e76-e53f-490d-8566-5d9676bec716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hồ sơ bệnh án']/parent::*</value>
+      <webElementGuid>465e7f81-aabb-4e24-a848-8c9dd4e19287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tim-kiem/ho-so-benh-an')]</value>
+      <webElementGuid>a514ab9c-6caf-4d91-825f-28c62aec6ea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>75372179-50c9-4628-a070-b8147ce918a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tim-kiem/ho-so-benh-an' and (text() = 'Hồ sơ bệnh án' or . = 'Hồ sơ bệnh án')]</value>
+      <webElementGuid>0c3e5716-60ce-4fba-a907-a8923246d345</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

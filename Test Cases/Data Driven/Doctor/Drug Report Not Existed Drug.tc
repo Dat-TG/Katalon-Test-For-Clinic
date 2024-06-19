@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Drug Report Not Existed Drug</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fbba698-d83b-4b7c-8ac5-33c4523514cc</testCaseGuid>
+</TestCaseEntity>

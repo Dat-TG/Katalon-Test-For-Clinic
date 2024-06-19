@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Drug Info Price Less Than 0</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e21d7a28-eb30-42d6-aaa1-df5857b0fa2e</testCaseGuid>
+</TestCaseEntity>

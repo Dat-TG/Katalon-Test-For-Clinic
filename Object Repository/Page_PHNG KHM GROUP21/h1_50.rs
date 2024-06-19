@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_50</name>
+   <tag></tag>
+   <elementGuidId>74405120-c21f-4a79-b535-87263e09293a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Xin chào, Võ Thành Nhân!'])[1]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.display-1.fw-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6a4601a0-e5aa-4695-b6f0-1ed14dab58ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display-1 fw-bold</value>
+      <webElementGuid>6fb5542c-e607-4e65-aee9-e9e950704b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>314fa4e8-52ee-44df-aaeb-0e16cf9b7f9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;d-flex align-items-center justify-content-center vh-100&quot;]/div[@class=&quot;text-center&quot;]/h1[@class=&quot;display-1 fw-bold&quot;]</value>
+      <webElementGuid>f6f6b4e4-97e7-4ee9-8479-08828a2f84a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xin chào, Võ Thành Nhân!'])[1]/following::h1[1]</value>
+      <webElementGuid>5e6a20ad-ab09-4584-86bd-6dbde272e5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng xuất'])[1]/following::h1[1]</value>
+      <webElementGuid>3cbdbe93-8b16-4e99-9562-07c7a96357ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thay đổi số bệnh nhân tối đa trong ngày'])[1]/preceding::h1[1]</value>
+      <webElementGuid>47c2e9fe-cbf7-4a01-8403-6c431233f95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số bệnh nhân tối đa trong ngày:'])[1]/preceding::h1[1]</value>
+      <webElementGuid>df7f6e6a-2e7a-4342-9fa9-fa692dbb419e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='50']/parent::*</value>
+      <webElementGuid>796ef725-f279-4372-b431-56ac0b11efea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>7c9e9c12-2ac3-447b-ac90-98a352b6d12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '50' or . = '50')]</value>
+      <webElementGuid>e2e955b6-1785-4d56-a0df-abdc520ef043</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

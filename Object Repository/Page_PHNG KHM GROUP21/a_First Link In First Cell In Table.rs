@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_First Link In First Cell In Table</name>
+   <tag></tag>
+   <elementGuidId>0480fb2e-235e-4169-a136-87c287d671b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.sorting_1 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b02ffee8-969a-4748-a9bc-d18d3851ef03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/bac-si/3-Hoàng Nhất Tín</value>
+      <webElementGuid>40f2b6a2-bd5e-4b7c-ac46-750613f344b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hoàng Nhất Tín</value>
+      <webElementGuid>cc89a0a5-1fbd-456e-b6db-a74552796fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;sorting_1&quot;]/a[1]</value>
+      <webElementGuid>f732c8b3-b13b-4f26-8bae-dab2c4a58b5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='example']/tbody/tr/td/a</value>
+      <webElementGuid>fc8c4aee-46b0-4d20-b76b-07afef982f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>1a91953c-5d8d-4221-b3da-d16a1d8948e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

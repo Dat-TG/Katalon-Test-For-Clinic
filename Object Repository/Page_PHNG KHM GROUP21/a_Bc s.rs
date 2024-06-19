@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bc s</name>
+   <tag></tag>
+   <elementGuidId>667c8f75-1f04-4121-8a18-4fd6df3c41d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f6f5fa2-7617-4b34-8fda-4b595c852e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>2609a248-4bef-4a5d-bbe9-e73ebe33d489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tim-kiem/bac-si</value>
+      <webElementGuid>b269a425-7e3e-4815-9306-cf8101c33c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bác sĩ</value>
+      <webElementGuid>72b37eba-0cbb-488a-a57c-120c8487797c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item dropdown me-2&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-end dropdown-menu-lg-start show&quot;]/li[2]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>c52025d1-b02e-4d98-b3ca-5f3b26d17138</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>557ffa9e-74b9-4ccc-8960-16046ed8ca9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bác sĩ')]</value>
+      <webElementGuid>f663c510-427f-4380-9e1f-80af0cf35c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thuốc'])[1]/following::a[1]</value>
+      <webElementGuid>436c4048-365f-464f-9f47-9d2e2c93de56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt lịch hẹn'])[1]/following::a[3]</value>
+      <webElementGuid>07fb9977-de32-46c5-ad60-651c6a7eb3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dịch vụ'])[1]/preceding::a[1]</value>
+      <webElementGuid>e6c71bf0-16e4-4790-ac99-69207d979bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/preceding::a[3]</value>
+      <webElementGuid>77f19426-214f-4d1b-8156-9d5b87cfb6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bác sĩ']/parent::*</value>
+      <webElementGuid>9a4ec5c9-79dd-420c-b2b9-c1887901f78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tim-kiem/bac-si')]</value>
+      <webElementGuid>70e1dd14-1daa-4043-a2a5-74631b9c0044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a</value>
+      <webElementGuid>a4c9f1ac-41a2-42dc-8e65-f1d21254db3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tim-kiem/bac-si' and (text() = 'Bác sĩ' or . = 'Bác sĩ')]</value>
+      <webElementGuid>442011db-37c4-49a6-a368-c0ce6cdddd61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

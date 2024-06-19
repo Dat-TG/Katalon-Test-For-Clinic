@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ng xut</name>
+   <tag></tag>
+   <elementGuidId>d6b20479-fc81-4dc4-8eb2-7584271e1259</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header']/div/div/div/div/div[2]/ul/li/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1edef3b-f91e-4da0-9fd4-a2088b33f559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item d-block</value>
+      <webElementGuid>2d98c8e6-12fd-4022-bb51-588146c712e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dang-xuat</value>
+      <webElementGuid>5e4e7b0e-f324-4a08-bfcf-539c85142acd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng xuất</value>
+      <webElementGuid>f594b2df-88d8-47b0-a9ac-83baf6916fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dropdown ms-2&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-end show&quot;]/li[1]/a[@class=&quot;dropdown-item d-block&quot;]</value>
+      <webElementGuid>96e7696d-4dfb-4342-b604-89ee5f21377d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header']/div/div/div/div/div[2]/ul/li/a[3]</value>
+      <webElementGuid>9eecf3b8-0b47-4c5d-8838-3f037cfcc91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đăng xuất')]</value>
+      <webElementGuid>b71d7806-c9e9-4032-bda4-9515ae668516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản'])[1]/following::a[1]</value>
+      <webElementGuid>1f457b17-e804-4987-95f9-ff8ac64790fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/following::a[2]</value>
+      <webElementGuid>6a955fab-6b40-4768-9c15-beeb5d6ca408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xin chào, Lê Công Đắt!'])[1]/preceding::a[1]</value>
+      <webElementGuid>d222bb1c-8fa6-4a5d-90c5-7968b400cada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome To GROUP21'])[1]/preceding::a[1]</value>
+      <webElementGuid>c43a41d7-549b-466b-aec3-209123f20473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng xuất']/parent::*</value>
+      <webElementGuid>b049b016-74af-43e9-9f47-76f5516768a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/dang-xuat')]</value>
+      <webElementGuid>0b7a7393-50e2-421f-b413-de65e351204d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>1fde1881-2f0b-4994-8507-02384c231721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dang-xuat' and (text() = 'Đăng xuất' or . = 'Đăng xuất')]</value>
+      <webElementGuid>cda5cfe7-a773-4c78-8308-2692a3f57bba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

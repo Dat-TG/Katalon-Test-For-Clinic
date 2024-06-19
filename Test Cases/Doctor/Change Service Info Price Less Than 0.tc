@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Service Info Price Less Than 0</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>873ae6e7-800d-49c2-8d18-328b6dbf6d80</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Log Out Doctor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60b5e7ba-851d-4ca2-91e8-28f9135bd1c6</testCaseGuid>
+</TestCaseEntity>

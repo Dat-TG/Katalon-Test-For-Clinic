@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Drug Report Check Month Year</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b885a438-29a4-492c-938d-7274b9349fe9</testCaseGuid>
+</TestCaseEntity>

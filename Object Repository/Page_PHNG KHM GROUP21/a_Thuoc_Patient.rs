@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Thuoc_Patient</name>
+   <tag></tag>
+   <elementGuidId>8e70ea85-bd4a-4c02-ba1c-71aa15328f4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-menu.dropdown-menu-end.dropdown-menu-lg-start.show > li > a.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6be6ea32-e490-4917-a7ce-b8ec74de9147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>8d19c68c-cb68-47f3-9a90-5cc81a9e27f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tim-kiem/thuoc</value>
+      <webElementGuid>c497f837-b35c-46c4-8c23-ddc099093804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thuốc</value>
+      <webElementGuid>b5605bed-293f-4d25-90ab-b57362a76fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item dropdown me-2&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-end dropdown-menu-lg-start show&quot;]/li[1]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>c13f8bf3-fb3a-4831-a4d4-51ab55ece966</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

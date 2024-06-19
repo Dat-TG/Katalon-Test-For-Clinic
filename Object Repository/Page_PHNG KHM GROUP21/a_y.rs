@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_y</name>
+   <tag></tag>
+   <elementGuidId>785c7c97-d411-4e11-9671-f58fd1bb3c01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.mb-1 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'đây')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6c9ccbe1-bfc9-45b1-bfbb-6b2c412dc427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dang-ky-tai-khoan</value>
+      <webElementGuid>73831a4e-be64-47dd-879c-930925d2bbda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>đây</value>
+      <webElementGuid>0893cd8c-bc4b-487c-a507-eab8c5363b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[1]/div[@class=&quot;container py-5 h-100&quot;]/div[@class=&quot;row d-flex justify-content-center align-items-center h-100&quot;]/div[@class=&quot;col-lg-8 col-xl-6&quot;]/div[@class=&quot;card rounded-3&quot;]/div[@class=&quot;card-body p-4 p-md-5&quot;]/form[@class=&quot;px-md-2&quot;]/p[@class=&quot;mb-1&quot;]/a[1]</value>
+      <webElementGuid>7d47b573-19c5-4089-b5ee-edd0cb0ea5c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'đây')]</value>
+      <webElementGuid>1196e562-1456-4459-8247-2758ad5c4c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[3]/following::a[1]</value>
+      <webElementGuid>9e728731-1f65-452e-9477-7a57b9edf81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập với tư cách:'])[1]/following::a[1]</value>
+      <webElementGuid>e99a9b8d-5dec-429c-a19e-7348e54b345d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên hệ với chúng tôi thông qua mạng xã hội:'])[1]/preceding::a[1]</value>
+      <webElementGuid>293784d7-b618-4779-b228-0de67449e0ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='đây']/parent::*</value>
+      <webElementGuid>e70c26c1-78bd-42bf-b139-36de9955cad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/dang-ky-tai-khoan')]</value>
+      <webElementGuid>de49dc4e-90a9-4a3b-89f3-383fc9fa1c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/a</value>
+      <webElementGuid>d9991ae2-c308-4937-926d-d3d0dab93d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dang-ky-tai-khoan' and (text() = 'đây' or . = 'đây')]</value>
+      <webElementGuid>b241effd-d692-4ce7-bc92-7371b50bd202</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

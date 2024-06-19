@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View Edit Drug and Service Instructions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43d4689d-054c-44eb-9a19-ab8737ad2671</testCaseGuid>
+</TestCaseEntity>
